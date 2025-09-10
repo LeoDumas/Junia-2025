@@ -1,8 +1,8 @@
 <?php
 	$base = 'site';
-	$pass = 'mnVkrECAWnj96Yk4';
-	$user = 'root';
-	$host = 'localhost';
+	$pass = 'password';
+	$user = 'toto';
+	$host = '127.0.0.1';
 
 	//$base = 'qdeclercq';
 	//$pass = '90su39vi';
